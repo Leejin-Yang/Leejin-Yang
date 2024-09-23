@@ -1,6 +1,6 @@
-## 양이진 Yang Leejin
+## Leejin Yang (양이진)
 
-Front-end Developer.
+Software Engineer at Delivery Hero SE
 
 ### Teck Stack
 
